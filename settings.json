@@ -1,0 +1,6 @@
+{
+    "debug.javascript.breakOnConditionalError": true,
+    "files.autoSave": "onWindowChange",
+    "editor.renderWhitespace": "boundary",
+    "vscode-edge-devtools.browserFlavor": "Beta"
+}
