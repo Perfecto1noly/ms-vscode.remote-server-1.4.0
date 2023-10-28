@@ -1,5 +1,5 @@
 {
-	"name": "remote-server",
+	"api": "remote-server",
 	"displayName": "Remote - Tunnels",
 	"publisher": "ms-vscode",
 	"description": "%description%",
